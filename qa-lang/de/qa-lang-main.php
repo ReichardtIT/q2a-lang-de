@@ -11,6 +11,11 @@
 	Date: 2011-06-25
 	Description: Language phrases commonly used throughout Q2A in German
 	Translation: Philip Schilling / www.philip.me (based on translation of Corinna Baldauf)
+	
+	Version: 1.7
+	Date: 2016-02-10
+	Description: adapt to version 1.7.x
+	Translation: Dominik Reichardt (http://www.reichardt-informationstechnik.de)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
