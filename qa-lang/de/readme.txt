@@ -1,0 +1,1 @@
+NOTE: The files qa-lang-admin.php and qa-lang-options.php in /qa-include/ folder have not been translated because these files are only used for the admin interface and do not contain any phrases which are visible to normal users of Q2A.
