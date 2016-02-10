@@ -6,6 +6,10 @@
 	File: qa-include/qa-lang-options.php
 	Description: Language phrases for all options, as shown in admin center
 
+	4Version: 1.7
+	last modified: 2016-02-10
+	Description: Language phrases for email notifications in German
+	Translation: Dominik Reichardt (http://www.reichardt-informationstechnik.de)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -22,22 +26,22 @@
 
 	return array(
 		'allow_change_usernames' => 'Allow users with posts to change their username:',
-		'allow_close_questions' => 'Allow questions to be manually closed:',
-		'allow_login_email_only' => 'Only log in by email address (not username):',
-		'allow_multi_answers' => 'Allow multiple answers per user:',
-		'allow_no_category' => 'Allow questions with no category',
-		'allow_no_sub_category' => 'Allow questions with a category but no sub-category',
-		'allow_private_messages' => 'Enable private messaging between users:',
-		'allow_self_answer' => 'Allow users to answer their own question:',
+		'allow_close_questions' => 'Erlaube Fragen manuell zu schließen:',
+		'allow_login_email_only' => 'Einloggen nur mit der E-Mail Adresse (nicht Benutzername):',
+		'allow_multi_answers' => 'Erlaube mehrere Antworten pro Benutzer:',
+		'allow_no_category' => 'Erlaube Fragen ohne Kategorie',
+		'allow_no_sub_category' => 'Erlaube Fragen mit einer Kategorie aber ohne Unterkategorie',
+		'allow_private_messages' => 'Erlaube private Nachrichten zwischen Benutzern:',
+		'allow_self_answer' => 'Erlaube Benutzern Ihre eigenen Fragen zu beantworten:',
 		'allow_user_walls' => 'Enable wall posts on user profiles:',
-		'allow_view_q_bots' => 'Allow search engines to view question pages',
+		'allow_view_q_bots' => 'Erlaube Suchmaschinen die Frage-Seiten zu sehen',
 		'approve_user_required' => 'All new users must be approved:',
-		'avatar_allow_gravatar' => 'Allow ^1Gravatar^2 avatars:',
-		'avatar_allow_upload' => 'Allow users to upload avatars:',
-		'avatar_default_show' => 'Default avatar:',
+		'avatar_allow_gravatar' => 'Erlaube ^1Gravatar^2 Avatare:',
+		'avatar_allow_upload' => 'Erlaube Benutzern das hochladen von Profilbildern:',
+		'avatar_default_show' => 'Profilbild hochladen:',
 		'avatar_message_list_size' => 'Avatar size on message lists:',
-		'avatar_profile_size' => 'Avatar size on user profile page:',
-		'avatar_q_list_size' => 'Avatar size on question lists:',
+		'avatar_profile_size' => 'Größe Profilbild auf der Profilseite:',
+		'avatar_q_list_size' => 'Größe Profilbild in der Fragen Übersicht:',
 		'avatar_q_page_a_size' => 'Avatar size on answers:',
 		'avatar_q_page_c_size' => 'Avatar size on comments:',
 		'avatar_q_page_q_size' => 'Avatar size on questions:',
@@ -45,7 +49,7 @@
 		'avatar_users_size' => 'Avatar size on top users page:',
 		'block_bad_words' => 'Censored words - separate by spaces or commas:',
 		'block_ips_write' => 'Blocked IP addresses - separate by spaces or commas:',
-		'captcha_module' => 'Use captcha module:',
+		'captcha_module' => 'Benutze das Captcha Modul:',
 		'captcha_on_anon_post' => 'Use captcha for anonymous posts:',
 		'captcha_on_feedback' => 'Use captcha on feedback form:',
 		'captcha_on_register' => 'Use captcha for user registration:',
@@ -151,7 +155,7 @@
 		'moderate_unconfirmed' => 'Use moderation if email not confirmed:',
 		'moderate_update_time' => 'Time to show on moderated posts:',
 		'moderate_users' => 'Enable moderation (approval) of users:',
-		'neat_urls' => 'URL structure:',
+		'neat_urls' => 'URL Struktur:',
 		'notify_admin_q_post' => 'Email this address when a question is posted',
 		'notify_users_default' => 'Check email notification box by default:',
 		'option_default' => 'Default',
