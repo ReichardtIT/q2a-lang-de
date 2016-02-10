@@ -114,6 +114,14 @@
 		'your_q_reopened' => "Deine Frage neu eröffnet",
 		'your_q_reshown' => "Deine Frage wieder angezeigt",
 		'your_q_retagged' => "Deine Frage neu getaggt",
+		'inbox' => "Posteingang",
+		'more_favorite_qs' => "Mehr beliebte Fragen...",
+		'more_favorite_tags' => "Mehr beliebte Tags...",
+		'more_favorite_users' => "Mehr beliebte Benutzer...",
+		'nav_user_pms' => "Private Nachrichten",
+		'outbox' => "Postausgang",
+		'pm_inbox_title' => "Private Nachricht erhalten",
+		'pm_outbox_title' => "Private Nachricht gesendet",
 	);
 
 
