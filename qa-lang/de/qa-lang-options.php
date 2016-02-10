@@ -3,13 +3,12 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-options.php
+	File: qa-lang/de/qa-lang-options.php
 	Description: Language phrases for all options, as shown in admin center
 
-	4Version: 1.7
-	last modified: 2016-02-10
-	Description: Language phrases for email notifications in German
-	Translation: Dominik Reichardt (http://www.reichardt-informationstechnik.de)
+	Version: 1.7
+	Date: 2016-02-10
+	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
