@@ -140,6 +140,8 @@
 		'wall_posts_explanation' => "Erlaube Benutzern auf Deiner Pinnwand zu posten (Du wirst zusätzlich per E-Mail benachrichtigt)",
 		'registered_label' => "Registriert:",
 		'remember' => "Merken",
+		'edit_profile' => "Profil bearbeiten",
+		'terms_not_accepted' => "Sie müssen dies akzeptieren.",
 	);
 
 
