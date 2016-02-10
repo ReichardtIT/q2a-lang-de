@@ -59,7 +59,6 @@
 		'me' => 'mir',
 		'meta_order' => '^what^when^where^who', // sets order of elements like: <answered> <15 hours ago> <in Problems> <by me (500 points)>
 		'min_length_x' => 'Mehr Informationen nötig (mindestens ^ Buchstaben',
-		'nav_account' => 'Mein Konto',
 		'nav_activity' => 'Alle Aktivitäten',
 		'nav_ask' => 'Frage stellen',
 		'nav_categories' => 'Kategorien',
