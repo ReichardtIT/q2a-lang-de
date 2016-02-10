@@ -141,7 +141,7 @@
 		'registered_label' => "Registriert:",
 		'remember' => "Merken",
 		'edit_profile' => "Profil bearbeiten",
-		'terms_not_accepted' => "Sie müssen dies akzeptieren.",
+		'terms_not_accepted' => "Sie müssen dies akzeptieren."
 	);
 
 
