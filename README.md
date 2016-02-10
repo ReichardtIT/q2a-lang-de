@@ -2,3 +2,5 @@
 Deutsche Sprachdatei für Question2Answer (Q2A)
 
 Projekt: http://www.question2answer.org
+
+* Änderungswünsche als issues anlegen oder fork
