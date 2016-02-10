@@ -88,6 +88,7 @@
 		'questions_by_x' => "Fragen von ^",
 		'wall_for_x' => "Pinnwand für ^",
 		'wall_view_more' => "Mehr Pinnwand-Einträge anzeigen...",
+		'delete_pm_popup' => "Diese private Nachricht löschen",
 	);
 
 
