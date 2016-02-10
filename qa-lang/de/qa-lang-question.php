@@ -165,6 +165,19 @@
 		'category_ask_not_allowed' => "Du hast keine Berechtigung, um Fragen in dieser Kategorie erstellen zu können",
 		'comment_must_be_approved' => "Dein Konto muss bestätigt sein, bevor Du Kommentare hinzufügen kannst.",
 		'save_silent_label' => "Unbemerkt speichern, damit nicht gesehen wird, dass es bearbeitet wurde",
+		'approve_a_popup' => "Diese Antwort genehmigen",
+		'approve_c_popup' => "Diesen Kommentar genehmigen",
+		'approve_q_popup' => "Diese Frage genehmigen",
+		'claim_a_popup' => "Diese Antwort Ihrem Benutzer Account zuordnen",
+		'claim_c_popup' => "Diesen Kommentar Ihrem Benutzer Account zuordnen",
+		'claim_q_popup' => "Dies Frage Ihrem Benutzer Account zuordnen",
+		'reject_a_popup' => "Diese Antwort ablehnen",
+		'reject_c_popup' => "Diesen Kommentar ablehnen",
+		'reject_q_popup' => "Diese Frage ablehnen",
+		'reopen_q_popup' => "Diese Frage wieder öffnen",
+		'reshow_a_popup' => "Erneutes anzeigen dieser Antwort",
+		'reshow_c_popup' => "Erneutes anzeigen dieses Kommentars",
+		'reshow_q_popup' => "Erneutes anzeigen dieser Frage",
 	);
 
 
