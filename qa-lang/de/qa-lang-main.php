@@ -223,7 +223,11 @@
 		'view_q_must_be_approved' => "Dein Konto muss bestätigt sein, um Fragen zu sehen.",
 		'vote_disabled_approve' => "Dein Konto muss bestätigt sein, um bewerten zu können",
 		'vote_disabled_down_approve' => "Dein Konto muss bestätigt sein, um negativ bewerten zu können",
-		'written' => ""
+		'written' => "geschrieben"
+		'email_error' => "Beim senden der E-Mail ist ein Fehler aufgetreten.",
+		'file_upload_limit_exceeded' => "Die Größe der Datei überschreitet das Server Limit",
+		'since_x' => "seit ^",
+		'to_x' => "zu ^",
 	);
 
 
