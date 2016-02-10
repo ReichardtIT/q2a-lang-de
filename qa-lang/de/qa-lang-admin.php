@@ -7,7 +7,7 @@
 	Description: Language phrases for admin center
 
 	Version: 1.7
-	Date: 2016-02-10
+	Date: 2016-02-11
 	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
@@ -24,7 +24,7 @@
 */
 
 	return array(
-		'active_widgets_explanation' => 'Currently active widgets:',
+		'active_widgets_explanation' => 'Derzeit aktivierte Komponenten:',
 		'add_category_button' => 'Kategorie hinzufügen',
 		'add_field_button' => 'Feld hinzufügen',
 		'add_link_button' => 'Link hinzufügen',
@@ -52,29 +52,29 @@
 		'blobs_to_db_note' => '- Migration der hochgeladenen Bilder und Dokumente von der Festplatte in die Datenbank',
 		'blobs_to_disk' => 'Blobs zur Festplatte',
 		'blobs_to_disk_note' => '- Migration der hochgeladenen Bilder und Dokumente von der Datenbank auf die Festplatte',
-		'block_button' => 'block',
+		'block_button' => 'blockieren',
 		'block_ips_note' => 'Verwende einen Bindestrich für Bereiche oder * eine beliebige Anzahl Übereinstimmungen . Beispiele: 192.168.0.4, 192.168.0.0-192.168.0.31 192.168.0.*',
 		'block_user_popup' => 'Benutzer blockieren',
 		'block_words_note' => 'Use a * to match any letters. Examples: doh (will only match exact word doh) , doh* (will match doh or dohno) , do*h (will match doh, dooh, dough).',
-		'cancel_mailing_button' => 'Cancel Mailing',
+		'cancel_mailing_button' => 'Mailing abbrechen',
 		'categories' => 'Kategorien',
-		'categories_introduction' => 'To get started with categories, click the \'Add Category\' button.',
-		'categories_not_shown' => 'Some questions have categories which will not be displayed.',
-		'categories_title' => 'Categories',
-		'category_add_sub' => 'add sub-category',
-		'category_added' => 'Category added',
-		'category_already_used' => 'This is already being used by a category',
-		'category_default_slug' => 'category-^',
-		'category_description' => 'Optional category description:',
+		'categories_introduction' => 'Um mit einer Kategorie zu beginnen, benutze den \'Kategorie hinzufügen\' Button.',
+		'categories_not_shown' => 'Manche Fragen haben Kategorien dienicht angezeigt werden.',
+		'categories_title' => 'Kategorien',
+		'category_add_sub' => 'Unterkategorie hinzufügen',
+		'category_added' => 'Kategorie hinzugefügt',
+		'category_already_used' => 'Kategorie ist schon in Benutzung',
+		'category_default_slug' => 'Kategorie-^',
+		'category_description' => 'Optionale Kategoriebeschreibung:',
 		'category_max_depth_x' => 'Some options may be hidden to prevent a category going deeper than ^ levels.',
 		'category_move_parent' => 'move to different parent',
-		'category_name' => 'Category name:',
-		'category_name_first' => 'Name of first category:',
+		'category_name' => 'Kategorie Name:',
+		'category_name_first' => 'Name der ersten Kategorie:',
 		'category_no_add_subs_x' => 'This category cannot have sub-categories because it is already ^ levels down.',
 		'category_no_delete_subs' => 'This category cannot be deleted because it has a sub-category.',
 		'category_no_sub_error' => '^q question/s in this category have no sub-category - ^1set sub-category^2',
 		'category_no_sub_to' => 'Move questions in ^ with no sub-category to:',
-		'category_no_subs' => 'None',
+		'category_no_subs' => 'Keine',
 		'category_none_error' => '^q question/s currently have no category - ^1set category^2',
 		'category_none_to' => 'Move questions with no category to:',
 		'category_parent' => 'Parent category:',
