@@ -5,16 +5,12 @@
 
 	http://www.question2answer.org/
 
-	File: qa-lang/de-DU/qa-lang-profile.php
-	Version: 1.4
-	Date: 2011-06-25
-	Description: Language phrases for user profile page in German
-	Translation: Philip Schilling / www.philip.me (based on translation of Corinna Baldauf)
-	
+	File: qa-lang/de/qa-lang-profile.php
+	Description: Language phrases for user profile page
+
 	Version: 1.7
 	Date: 2016-02-10
-	Description: adapt to version 1.7.x
-	Translation: Dominik Reichardt (http://www.reichardt-informationstechnik.de)
+	Last Editor: Dominik Reichardt (dominik@reichardt-online.it)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
