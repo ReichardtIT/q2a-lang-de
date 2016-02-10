@@ -5,13 +5,16 @@
 
 	http://www.question2answer.org/
 
-
 	File: qa-lang/de-DU/qa-lang-users.php
 	Version: 1.4
 	Date: 2011-06-25
 	Description: Language phrases for user management in German
 	Translation: Philip Schilling / www.philip.me (based on translation of Corinna Baldauf)
-
+	
+	Version: 1.7
+	Date: 2016-02-10
+	Description: adapt to version 1.7.x
+	Translation: Dominik Reichardt (http://www.reichardt-informationstechnik.de)
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
