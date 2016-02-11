@@ -48,7 +48,7 @@
 		'q_posted_subject' => 'Bei ^site_title gibt es eine neue Frage',
 		'reset_body' => "Bitte klicke auf den folgenden Link, um dein Passwort für ^site_title zurückzusetzen:\n^url\n\nAlternativ, kannst du den untenstehenden Code in das Feld auf der Website eingeben.\n\nCode: ^code\n\nWenn du dein Passwort nicht zurücksetzen willst, kannst du diese Email einfach ignorieren.\n\nVielen Dank,\n^site_title",
 		'reset_subject' => '^site_title - Passwort zurücksetzen',
-		'welcome_body' => "Danke, dass du dich bei ^site_title angemeldet hast.\n\n^custom^confirmDeine Login-Daten lauten:\n\nEmail: ^email\nPasswort: ^password\n\nBitte bewahre diese Informationen sicher auf.\n\nVielen Dank,\n\n^site_title\n^url",
+		'welcome_body' => "Danke, dass du dich bei ^site_title angemeldet hast.\n\n^custom^confirmDeine Login-Daten lauten:\n\nUsername: ^handle\nEmail: ^email\n\nBitte bewahre diese Informationen sicher auf.\n\nVielen Dank,\n\n^site_title\n^url",
 		'welcome_confirm' => "Bitte klicke auf den folgenden Link, um deine Email-Adresse zu bestätigen:\n^url\n\n",
 		'welcome_subject' => 'Willkommen bei ^site_title!',
 		'flagged_body' => "Ein Post von ^p_handle hat ^flags:\n\n^open^p_context^close erhalten\n\nKlicke auf den folgenden Link, um den Post zu sehen:\n^url\n\nKlicke auf den folgenden Link, um alle ausstehenden, markierten Beiträge zu prüfen:\n\n^a_url\n\nVielen Dank,\n\n^site_title",
