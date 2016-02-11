@@ -95,7 +95,7 @@
 		'delete_link' => 'Delete this link',
 		'delete_page' => 'Delete this page',
 		'delete_stop' => 'Stop deleting',
-		'delete_title' => 'Delete this title',
+		'delete_title' => 'Titel Löschen',
 		'delete_widget_position' => 'Delete this widget from this position',
 		'edit_custom_page' => 'Edit custom page',
 		'edit_field' => ' - ^1edit field^2',
