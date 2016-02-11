@@ -102,7 +102,7 @@
 		'edit_link' => ' - ^1edit link^2',
 		'edit_page' => ' - ^1edit page^2',
 		'edit_title' => ' - ^1edit title^2',
-		'emails_per_minute' => 'emails per minute',
+		'emails_per_minute' => 'E-Mails pro Minute',
 		'emails_title' => 'Emails',
 		'feed_link' => 'Feed',
 		'feed_link_example' => 'Example feed',
