@@ -110,7 +110,7 @@
 		'field_link_url' => 'Linked URL',
 		'field_multi_line' => 'Multiple lines of text',
 		'field_name' => 'Field name:',
-		'field_single_line' => 'Single line of text',
+		'field_single_line' => 'Einzelne Textzeile',
 		'field_type' => 'Content type:',
 		'first' => 'First',
 		'flagged_title' => 'Flagged',
