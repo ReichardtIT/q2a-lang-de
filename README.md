@@ -3,8 +3,6 @@ Deutsche Sprachdatei für Question2Answer (Q2A)
 
 Projekt: http://www.question2answer.org
 
-* Änderungswünsche als issues anlegen oder fork
-
 ##Installation##
 
 * Download letzte Version https://github.com/Soeldner/q2a-lang-de/archive/master.zip
